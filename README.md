@@ -2,6 +2,8 @@
 
 This repo explores housing market trends by neighborhood in Seattle.
 
+
+<img src="images/Seattle_map.png">
 ### Data collection
 
 ##### Housing value data
@@ -23,4 +25,4 @@ Construction permit data and neighborhood shape files are available at data.seat
 ### Data Preparation
 <img src="images/pandas.jpeg" height="45">
 
-The dataset is loaded into a pandas dataframe for analysis.
+The dataset is loaded into a pandas dataframe for analysis. Using geopy, each house is assigned to a neighborhood. Outliers are removed and dummy variables are made for each neighborhood.
