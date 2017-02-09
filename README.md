@@ -3,7 +3,7 @@
 This repo explores housing market trends by neighborhood in Seattle.
 
 
-<img src="images/Seattle_map.png">
+<img src="images/seattle_map.png">
 ### Data collection
 
 ##### Housing value data
